@@ -8,10 +8,13 @@ from CCRLDataset import CCRLDataset
 from AlphaZeroNetwork import AlphaZeroNet
 
 #Training params
-num_epochs = 40
+# num_epochs = 40
+num_epochs = 10
 num_blocks = 10
 num_filters = 128
-ccrl_dir = '../cclr/reformatted'
+current_directory = os.getcwd()
+ccrl_dir = os.path.join(current_directory, 'cclr', 'reformatted')
+# ccrl_dir = '../cclr/reformatted'
 logmode=True
 cuda=False
 
