@@ -11,7 +11,7 @@ from AlphaZeroNetwork import AlphaZeroNet
 num_epochs = 40
 num_blocks = 10
 num_filters = 128
-ccrl_dir = '/home/ubuntu/pytorch-alpha-zero/ccrl/reformated'
+ccrl_dir = '../cclr/reformatted'
 logmode=True
 cuda=False
 

@@ -20,14 +20,25 @@ def reformat_games( file_names, new_dir, thread_idx ):
             if file_name_idx % 1000 == 0:
                 print( 'Thread {} wrote {} train pngs'.format( thread_idx, file_name_idx ) )
 
+
+input('proceeding to printing the directory, proceed ?')
 #get all pgns
-ccrl_dir = '/home/ubuntu/pytorch-alpha-zero/cclr-data/cclr/train'
-all_file_names = os.listdir( ccrl_dir )
+current_directory = os.getcwd()
+
+# Construct the path to the 'cclr/train' directory using a relative path
+ccrl_dir = os.path.join(current_directory, 'cclr', 'train')
+# ccrl_dir = '../train'
+# ccrl_dir = '..\\cclr\\train'
+print(ccrl_dir)
+all_file_names = os.listdir(ccrl_dir)
+print(all_file_names)
 for i in range( len( all_file_names ) ):
     all_file_names[ i ] = os.path.join( ccrl_dir, all_file_names[ i ] ) 
+    print(all_file_names[i])
 
 #the new dir
-reformat_dir = '/home/ubuntu/pytorch-alpha-zero/cclr-data/train'
+#reformat_dir = '../reformatted'
+reformat_dir = os.path.join(current_directory, 'cclr', 'reformatted')
 
 #launch some threads
 threads = []

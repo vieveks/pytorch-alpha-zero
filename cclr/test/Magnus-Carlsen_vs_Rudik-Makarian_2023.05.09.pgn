@@ -1,0 +1,15 @@
+[Event "Titled Tuesday Blitz May 9 Late 2023"]
+[White "Carlsen, Magnus"]
+[Black "Makarian, Rudik"]
+[WhiteFideId "1503014"]
+[BlackFideId "44105681"]
+[WhiteElo "2852"]
+[BlackElo "2461"]
+[Result "0-1"]
+[Round "11"]
+[TimeControl "180+2"]
+[Date "2023.05.09"]
+[WhiteClock "0:02:19"]
+[BlackClock "0:01:11"]
+
+1. h4 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:57]} 2. d4 {[%clk 0:02:58]}  d5 {[%clk 0:02:55]} 3. Nf3 {[%clk 0:02:57]}  h6 {[%clk 0:02:54]} 4. Bf4 {[%clk 0:02:56]}  Bf5 {[%clk 0:02:43]} 5. e3 {[%clk 0:02:56]}  e6 {[%clk 0:02:43]} 6. c4 {[%clk 0:02:57]}  Nc6 {[%clk 0:02:34]} 7. a3 {[%clk 0:02:56]}  Bd6 {[%clk 0:02:33]} 8. Bxd6 {[%clk 0:02:56]}  cxd6 {[%clk 0:02:26]} 9. Nc3 {[%clk 0:02:54]}  dxc4 {[%clk 0:02:26]} 10. Bxc4 {[%clk 0:02:55]}  d5 {[%clk 0:02:15]} 11. Bb5 {[%clk 0:02:55]}  O-O {[%clk 0:02:14]} 12. Bxc6 {[%clk 0:02:55]}  bxc6 {[%clk 0:02:15]} 13. Ne5 {[%clk 0:02:56]}  Qc7 {[%clk 0:02:00]} 14. Rc1 {[%clk 0:02:54]}  Nd7 {[%clk 0:01:57]} 15. Nxd7 {[%clk 0:02:52]}  Qxd7 {[%clk 0:01:57]} 16. g4 {[%clk 0:02:51]}  Bg6 {[%clk 0:01:53]} 17. h5 {[%clk 0:02:50]}  Bh7 {[%clk 0:01:53]} 18. g5 {[%clk 0:02:51]}  hxg5 {[%clk 0:01:52]} 19. h6 {[%clk 0:02:52]}  Bg6 {[%clk 0:01:42]} 20. Na4 {[%clk 0:02:52]}  gxh6 {[%clk 0:01:27]} 21. Rxh6 {[%clk 0:02:52]}  Kg7 {[%clk 0:01:28]} 22. Rh1 {[%clk 0:02:52]}  Rh8 {[%clk 0:01:28]} 23. Kd2 {[%clk 0:02:53]}  e5 {[%clk 0:01:20]} 24. Rxh8 {[%clk 0:02:25]}  Rxh8 {[%clk 0:01:19]} 25. Kc3 {[%clk 0:02:26]}  Rh2 {[%clk 0:01:17]} 26. Qf3 {[%clk 0:02:21]}  exd4+ {[%clk 0:01:12]} 27. exd4 {[%clk 0:02:19]}  Rh3 {[%clk 0:01:11]} 0-1

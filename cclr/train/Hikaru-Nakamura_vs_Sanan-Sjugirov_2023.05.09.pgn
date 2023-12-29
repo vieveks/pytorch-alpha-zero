@@ -1,0 +1,15 @@
+[Event "Titled Tuesday Blitz May 9 Early 2023"]
+[White "Nakamura, Hikaru"]
+[Black "Sjugirov, Sanan"]
+[WhiteFideId "2016192"]
+[BlackFideId "4189302"]
+[WhiteElo "2885"]
+[BlackElo "2569"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "180+2"]
+[Date "2023.05.09"]
+[WhiteClock "0:00:28"]
+[BlackClock "0:00:46"]
+
+1. Nf3 {[%clk 0:03:00]}  d5 {[%clk 0:03:00]} 2. e3 {[%clk 0:03:01]}  Nf6 {[%clk 0:03:00]} 3. d4 {[%clk 0:03:01]}  c6 {[%clk 0:02:57]} 4. c4 {[%clk 0:02:59]}  Bf5 {[%clk 0:02:55]} 5. Nc3 {[%clk 0:02:59]}  e6 {[%clk 0:02:56]} 6. Nh4 {[%clk 0:02:59]}  Bg6 {[%clk 0:02:55]} 7. Nxg6 {[%clk 0:02:54]}  hxg6 {[%clk 0:02:56]} 8. Rb1 {[%clk 0:02:54]}  Nbd7 {[%clk 0:02:51]} 9. c5 {[%clk 0:02:53]}  e5 {[%clk 0:02:34]} 10. b4 {[%clk 0:02:53]}  a6 {[%clk 0:02:33]} 11. Bd3 {[%clk 0:02:45]}  Be7 {[%clk 0:02:33]} 12. Ne2 {[%clk 0:02:41]}  Qc7 {[%clk 0:02:18]} 13. h3 {[%clk 0:02:39]}  g5 {[%clk 0:02:11]} 14. f3 {[%clk 0:02:27]}  g4 {[%clk 0:02:06]} 15. Kd2 {[%clk 0:02:25]}  gxf3 {[%clk 0:01:59]} 16. gxf3 {[%clk 0:02:25]}  b6 {[%clk 0:01:43]} 17. a3 {[%clk 0:02:15]}  a5 {[%clk 0:01:42]} 18. Bb2 {[%clk 0:02:08]}  axb4 {[%clk 0:01:41]} 19. axb4 {[%clk 0:02:08]}  bxc5 {[%clk 0:01:40]} 20. dxc5 {[%clk 0:02:06]}  e4 {[%clk 0:01:29]} 21. fxe4 {[%clk 0:02:04]}  dxe4 {[%clk 0:01:30]} 22. Bc4 {[%clk 0:02:00]}  Ne5 {[%clk 0:01:30]} 23. Bxe5 {[%clk 0:01:54]}  Qxe5 {[%clk 0:01:31]} 24. Kc2 {[%clk 0:01:49]}  Rd8 {[%clk 0:01:15]} 25. Qe1 {[%clk 0:01:37]}  Nd5 {[%clk 0:01:11]} 26. Nc3 {[%clk 0:01:07]}  Bh4 {[%clk 0:01:05]} 27. Qd2 {[%clk 0:01:04]}  Nxb4+ {[%clk 0:01:05]} 28. Rxb4 {[%clk 0:01:05]}  Rxd2+ {[%clk 0:01:05]} 29. Kxd2 {[%clk 0:01:06]}  O-O {[%clk 0:01:01]} 30. Bb3 {[%clk 0:00:39]}  Rd8+ {[%clk 0:00:59]} 31. Kc2 {[%clk 0:00:39]}  Bf6 {[%clk 0:00:56]} 32. Rc4 {[%clk 0:00:39]}  Qg3 {[%clk 0:00:54]} 33. Rd1 {[%clk 0:00:29]}  Qf2+ {[%clk 0:00:48]} 34. Kb1 {[%clk 0:00:28]}  Rb8 {[%clk 0:00:46]} 0-1
